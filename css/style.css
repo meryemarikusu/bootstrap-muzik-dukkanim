@@ -1,0 +1,20 @@
+li {
+    list-style-position: inside;
+    
+}
+
+body {
+    font-family: 'Roboto Condensed', sans-serif;
+    background-color: #E9ECEF;
+}
+
+h2, h3 {
+    text-align: center;
+    color: #A66CFF;
+}
+
+a {
+    color: #A3C7D6;
+    font-size: 14px;
+}
+
